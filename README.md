@@ -23,3 +23,5 @@ The structure for HTML page involves the following
 </body>
 </html>
 ```
+## Resources
+[W3 school](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_formatting_del)
