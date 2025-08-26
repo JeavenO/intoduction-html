@@ -24,4 +24,4 @@ The structure for HTML page involves the following
 </html>
 ```
 ## Resources
-[W3 school](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_formatting_del)
+-[W3 school](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_formatting_del)
